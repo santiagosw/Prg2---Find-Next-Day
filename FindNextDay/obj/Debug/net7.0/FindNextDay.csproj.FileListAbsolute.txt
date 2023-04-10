@@ -1,0 +1,15 @@
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/bin/Debug/net7.0/FindNextDay
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/bin/Debug/net7.0/FindNextDay.deps.json
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/bin/Debug/net7.0/FindNextDay.runtimeconfig.json
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/bin/Debug/net7.0/FindNextDay.dll
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/bin/Debug/net7.0/FindNextDay.pdb
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/obj/Debug/net7.0/FindNextDay.csproj.AssemblyReference.cache
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/obj/Debug/net7.0/FindNextDay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/obj/Debug/net7.0/FindNextDay.AssemblyInfoInputs.cache
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/obj/Debug/net7.0/FindNextDay.AssemblyInfo.cs
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/obj/Debug/net7.0/FindNextDay.csproj.CoreCompileInputs.cache
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/obj/Debug/net7.0/FindNextDay.dll
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/obj/Debug/net7.0/refint/FindNextDay.dll
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/obj/Debug/net7.0/FindNextDay.pdb
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/obj/Debug/net7.0/FindNextDay.genruntimeconfig.cache
+/Users/santiagodromero/Projects/FindNextDay/FindNextDay/obj/Debug/net7.0/ref/FindNextDay.dll
